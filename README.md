@@ -5,7 +5,7 @@
 控制台-常规设置-登录界面，随机设置一下背景 添加一下消息
 
 # 下载脚本
-找个喜欢的文件夹 wget https://raw.githubusercontent.com/Jumeng-ms/QNAP_Lgoin_BingWallpaper/main/qnapLoginBingWallpaper.sh
+找个喜欢的文件夹 wget https://raw.githubusercontent.com/Jumeng-ms/QNAP_Login_BingWallpaper/main/qnapLoginBingWallpaper.sh
 //如果没有安装wget的运行安装一下： sudo apt-get install wget
 
 # 日定时运行该脚本
