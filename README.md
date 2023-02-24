@@ -1,4 +1,4 @@
-# QNAP_Lgoin_BingWallpaper
+# QNAP_Login_BingWallpaper
 威联通自动更换登录图片（bing）
 
 # 设置背景。重要！！不然不生效
